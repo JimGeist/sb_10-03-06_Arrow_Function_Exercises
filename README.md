@@ -7,5 +7,5 @@ output arrays and I did not see a matcher for an array, a function was created t
 true when the arrays have the same values but are different reference objects. The old ES5 and the updated ES2015 
 version were input to the arraysAreTheSame function.
 
-Please go to [jimgeist.github.io/sb_10-03-06_Arrow_Function_Exercises](https://jimgeist.github.io/sb_10-03-06_Arrow_Function_Exercises/) for the results of the Jasmine tests.
+Please go to [jimgeist.github.io/sb_10-03-06_Arrow_Function_Exercises/index.html](https://jimgeist.github.io/sb_10-03-06_Arrow_Function_Exercises/index.html) for the results of the Jasmine tests.
 
